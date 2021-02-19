@@ -4,4 +4,6 @@
 
 Problem: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/
 
+My Solution <a href="https://github.com/harimanasa/Algorithms-and-Data-Structures/tree/main/Two%20Pointers"> here </a>
+
 2. 
